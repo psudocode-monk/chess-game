@@ -1,7 +1,7 @@
 
 ---
 
-# 🧀 Paneer Chess Game
+# 🧀 Chess | The Game of India
 
 A fully playable chess game built with **HTML, CSS, and JavaScript** — featuring smooth animations, clean minimal UI, and complete piece movement logic including castling, pawn promotion, and captures.
 
